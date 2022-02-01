@@ -29,7 +29,7 @@ PARAMETERS
 ----------
 """
 # single channel, max number of particles
-N = 400
+N = 300
 # beamsplitter's transmission coefficients to compute (in percent without decimals)
 tau_array = np.linspace(10, 50, 20, dtype=int)
 
